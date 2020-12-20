@@ -8,7 +8,8 @@
 
 # Exhibition
 
-[Play on AI](http://www.nabi.or.kr/page/board_view.php?brd_idx=1086&brd_id=project) 2020.12.17~2021.01.29
+[Play on AI](http://www.nabi.or.kr/page/board_view.php?brd_idx=1086&brd_id=project)
+(2020.12.17~2021.01.29)
 
 # Artwork
 
@@ -52,7 +53,7 @@
 
 [JasoAI](https://github.com/Yngie-C/JasoAI)
 
-# Contribute
+# Contribution
 
 1. `lr_scheduler` 를 사용하여 epoch 가 증가할 때마다 learning_rate 를 감소시킴
 1. `generator.py` 에서 checkpoint 폴더에 저장된 파라미터를 하나씩 불러올 수 있도로 하고, 이를 통해 생성된 문장을 텍스트파일로 저장
