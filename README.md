@@ -15,6 +15,8 @@
 
 <고백 Shame>
 
+![ai_mockup7](https://user-images.githubusercontent.com/7092473/102714293-f0989000-4310-11eb-8259-06f9d29a9a7d.png)
+
 # Description of the artwork
 
 인공지능의 죄는 결국 인간의 죄다.
