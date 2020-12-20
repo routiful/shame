@@ -6,6 +6,14 @@
 
 트위터 크롤링(키워드 : 고백, 고민, 죄, 우울, 슬픔, 걱정, 인공지능... 등)
 
+# Examples of generated sentence
+
+- 4차산업혁명이라고 한다지만 청년실업이라는 사회적 문제 및 IT기술과 관련된 내용은 전혀 없고 산업자본이 은행을 인수하여 부동산 투자에 나서라고 한다. 라는 문구만 있을 뿐 실질적인 구체적 사례나 구체적인 내용은 들어있지 않다.
+
+- 로봇 전쟁에서 거의 졌다고요. 뼈저리게 후회하고 계시지요?
+
+- 오류 투성이인 사진에 동정을 표하는 네티즌을 그대로 방치할 수는 없는 노릇이죠.
+
 # Exhibition
 
 [Play on AI](http://www.nabi.or.kr/page/board_view.php?brd_idx=1086&brd_id=project)
@@ -28,6 +36,16 @@
 관람객은 인공지능의 고해성사를 듣고 인공지능 기술의 윤리적 문제를 재고하며 기술이 초래한 문제에 직면하게 된다.
 
 코사인은 이렇게 기술 발전의 어두운 면을 객관적으로 제시하고 경각심을 일깨우며, 인간 스스로 윤리적 문제를 설찰하게 하고자 한다.
+
+The sin of artificial intelligence is the sin of man after all.
+
+Co-Si(g)n will present the confession booth <Shame> at the exhibition, which listens to the confession of artificial intelligence that learns human sins under this premise.
+
+Confession refers to the act of confessing and repenting one's sins in a religious sense, and in <Shame>, artificial intelligence is acting to reverse human sin. 
+
+The audience hears the confession of artificial intelligence, reconsider the ethical issues of artificial intelligence technology, and face the problems caused by technology.
+
+Co-Si(g)n aims to objectively present the dark side of technological development, raise awareness, and let humans introspect ethical issues on their own.
 
 # Team
 
