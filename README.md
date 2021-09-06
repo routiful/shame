@@ -59,7 +59,7 @@ Co-Si(g)n aims to objectively present the dark side of technological development
 
 [김혜리(작가)](https://herry.kim)
 
-[임태훈(개발자)](https://routiful.github.io)
+[임태훈(개발자)](https://github.com/routiful)
 
 [장윤영(작가)](https://yunyoung.kr)
 
@@ -76,7 +76,7 @@ Co-Si(g)n aims to objectively present the dark side of technological development
 # Contribution
 
 1. `lr_scheduler` 를 사용하여 epoch 가 증가할 때마다 learning_rate 를 감소시킴
-1. `generator.py` 에서 checkpoint 폴더에 저장된 파라미터를 하나씩 불러올 수 있도로 하고, 이를 통해 생성된 문장을 텍스트파일로 저장
+1. `generator.py` 에서 checkpoint 폴더에 저장된 파라미터를 하나씩 불러올 수 있도록 하고, 이를 통해 생성된 문장을 텍스트파일로 저장
 
 
 # Acknowledgement
